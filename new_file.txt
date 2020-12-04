@@ -1,1 +1,1 @@
-pierwsza linia w pliku newfile
+pierwsza linia zostala zmieniona
